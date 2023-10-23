@@ -1,7 +1,5 @@
 package Zadania;
-
 public class Zadanie7 {
-
     public static void main(String[] args) {
         Integer[] value7 = {3, 4};
         changeValue(value7);

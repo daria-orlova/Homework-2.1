@@ -1,5 +1,4 @@
 package Zadania;
-
 public class Zadanie9 {
     public static void main(String[] args){
         Person1 person = new Person1();
@@ -12,7 +11,6 @@ public class Zadanie9 {
 class Person1 {
     public String name;
     public String surname;
-
     public String toString (){
         return name + surname;
     }
