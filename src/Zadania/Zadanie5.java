@@ -1,6 +1,7 @@
 package Zadania;
 
 public class Zadanie5 {
+
     public static void main(String[] args) {
         int value5 = 33;
         changeValue5(value5);
