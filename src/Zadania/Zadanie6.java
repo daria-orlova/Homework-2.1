@@ -1,5 +1,4 @@
 package Zadania;
-
 public class Zadanie6 {
     public static void main(String[] args) {
         Integer value6 = 33;
